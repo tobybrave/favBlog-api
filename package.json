@@ -1,0 +1,22 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobybrave/favBlog.git"
+  },
+  "author": "tobi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobybrave/favBlog/issues"
+  },
+  "homepage": "https://github.com/tobybrave/favBlog#readme"
+}
